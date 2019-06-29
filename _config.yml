@@ -1,5 +1,4 @@
 # Welcome to Jekyll!
-#
 
 # Site settings
 title: UNDERPEACE
@@ -12,11 +11,11 @@ email: kavka65535@gmail.com
 baseurl: "/underpeace" # the subpath of your site, e.g. /blog
 url: ""
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  #twitter: https://twitter.com/<username>
+  #github: https://github.com/<username>
+  #linkedin-square: https://linkedin.com/in/<username>
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
   #instagram:
